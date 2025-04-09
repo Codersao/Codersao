@@ -1,3 +1,4 @@
+![logo](https://github.com/Codersao/Codersao/blob/main/Purple%20and%20White%20Geometric%20Music%20Youtube%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Jatin Ghoyal</h1>
 <h3 align="center">Exploring code, AI & robotics with curiosity and coffee ☕🤖</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif"
