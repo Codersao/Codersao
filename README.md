@@ -14,7 +14,7 @@
 
 - 🤳WebRTC video chat with interest-based matching. [Alphee](https://alphee.onrender.com/)
 
-- ⚖️Kg to Pound Converter App (Built in Class 11) [Unit_Jatin](https://codersao.in/projects.php)
+- ⚖️Kg to Pound Converter App (Built in Class 11) [Unit_Jatin](https://codersao.in/project/index.html)
 
 - 👨‍💻 All of my projects are available at [https://codersao.in/project/index.html](https://codersao.in/project/index.html)
 
