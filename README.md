@@ -1,7 +1,7 @@
 ![logo](https://github.com/Codersao/Codersao/blob/main/Purple%20and%20White%20Geometric%20Music%20Youtube%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Jatin Ghoyal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A3FF7&center=true&vCenter=true&width=1000&lines=Exploring+code%2C+AI+%26+robotics+with+curiosity+and+coffee+☕🤖" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A3FF7&center=true&vCenter=true&width=1000&lines=Exploring+code%2C+AI+%26+robotics+with+curiosity+and+coffee+☕🤖" alt="Typing SVG" />
 </p>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersao&label=Profile%20views&color=0e75b6&style=flat" alt="codersao" /> </p>
