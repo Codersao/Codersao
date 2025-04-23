@@ -1,5 +1,5 @@
 ![logo](https://github.com/Codersao/Codersao/blob/main/Purple%20and%20White%20Geometric%20Music%20Youtube%20Banner.gif)
-<h1 align="center">Hi 👋, I'm Jatin Ghoyal</h1>
+<h1 align="center">Hi 👋, I'm Jatin Ghoyal </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A3FF7&center=true&vCenter=true&width=500&lines=Coding+AI+%26+Robotics+with+Passion+☕🤖" alt="Typing SVG" />
 </p>
