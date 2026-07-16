@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+  <rect rx="12" width="600" height="320" fill="#071018" />
+  <text x="28" y="48" font-family="Inter, Arial, sans-serif" font-size="24" fill="#e6eef8">AlpheeEats</text>
+  <text x="28" y="84" font-family="Inter, Arial, sans-serif" font-size="14" fill="#9aa7b8">Campus food delivery — mobile-first</text>
+</svg>
