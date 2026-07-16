@@ -1,0 +1,13 @@
+﻿name: Stats Placeholder
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stats automation placeholder
+        run: echo 'Stats workflow placeholder. Add stats generation steps here.'

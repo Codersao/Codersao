@@ -1,6 +1,6 @@
 <!--
   Premium GitHub Profile README (dark, terminal + cards layout)
-  Generated/created manually to match visual reference. Editable via data/config.json
+  Generated from data/config.json. Edit the config file and run scripts/update-readme.js.
 -->
 
 <table width="100%"><tr>
@@ -13,7 +13,7 @@
       <img src="assets/profile.svg" width="64" alt="profile" style="border-radius:10px; border:1px solid rgba(255,255,255,0.03)"/>
       <div>
         <div style="font-weight:700; color:#e6eef8">Jatin Ghoyal</div>
-        <div style="font-size:12px; color:#7c3aed">AI Engineer</div>
+        <div style="font-size:12px; color:#7c3aed">AI Engineer · Software Developer · Founder @ Codersao</div>
       </div>
     </div>
 
@@ -48,13 +48,11 @@
     <p style="color:#cbd6e3; max-width:680px">I build AI-powered products, robotics solutions, and scalable software systems. My work spans applied machine learning, robotics integrations, and developer tooling for real-world production use.</p>
 
     <div style="margin-top:12px; display:flex; gap:10px; flex-wrap:wrap">
-      [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=book&logoColor=white)](https://codersao.in)
-      [![Contact](https://img.shields.io/badge/Contact-00ff7f?style=for-the-badge&logo=mail&logoColor=black)](mailto:jatinghoyal.in@gmail.com)
-      [![Resume](https://img.shields.io/badge/Resume-6f42c1?style=for-the-badge&logo=file&logoColor=white)](https://codersao.in/resume.pdf)
+      [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=book&logoColor=white)](https://codersao.in) [![Website](https://img.shields.io/badge/Website-7c3aed?style=for-the-badge&logo=globe&logoColor=white)](https://codersao.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinghoyal/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codersao) [![Resume](https://img.shields.io/badge/Resume-6f42c1?style=for-the-badge&logo=file-text&logoColor=white)](https://codersao.in/resume.pdf) [![Email](https://img.shields.io/badge/Email-00ff7f?style=for-the-badge&logo=mail&logoColor=white)](mailto:jatinghoyal.in@gmail.com)
     </div>
   </td>
   <td valign="top" align="right">
-    <img src="assets/banner.svg" alt="banner" width="420" style="border-radius:10px; border:1px solid rgba(255,255,255,0.03)"/>
+    <img src="assets/banner.gif" alt="banner" width="420" style="border-radius:10px; border:1px solid rgba(255,255,255,0.03)"/>
   </td>
   </tr></table>
 </div>
@@ -69,15 +67,15 @@
         <div style="color:#9fffcf; font-weight:700">150+</div>
         <div style="color:#9aa7b8; font-size:12px">Repositories</div>
       </div>
-      <div style="flex:1; min-width:120px; padding:12px; background:rgba(255,255,255,0.01); border-radius:8px; text-align:center">
+<div style="flex:1; min-width:120px; padding:12px; background:rgba(255,255,255,0.01); border-radius:8px; text-align:center">
         <div style="color:#7c3aed; font-weight:700">800+</div>
         <div style="color:#9aa7b8; font-size:12px">Stars</div>
       </div>
-      <div style="flex:1; min-width:120px; padding:12px; background:rgba(255,255,255,0.01); border-radius:8px; text-align:center">
+<div style="flex:1; min-width:120px; padding:12px; background:rgba(255,255,255,0.01); border-radius:8px; text-align:center">
         <div style="color:#ffd166; font-weight:700">300+</div>
         <div style="color:#9aa7b8; font-size:12px">Contributions</div>
       </div>
-      <div style="flex:1; min-width:120px; padding:12px; background:rgba(255,255,255,0.01); border-radius:8px; text-align:center">
+<div style="flex:1; min-width:120px; padding:12px; background:rgba(255,255,255,0.01); border-radius:8px; text-align:center">
         <div style="color:#ff7b7b; font-weight:700">45</div>
         <div style="color:#9aa7b8; font-size:12px">Day Streak</div>
       </div>
@@ -86,7 +84,6 @@
 
   <div style="flex:1; min-width:320px; background:rgba(255,255,255,0.01); padding:14px; border-radius:10px; border:1px solid rgba(255,255,255,0.03)">
     <div style="color:#7c3aed; font-weight:700; margin-bottom:10px">// GITHUB ACTIVITY</div>
-    <!-- contribution graph -->
     ![Contribution Graph](https://ghchart.rshah.org/Codersao)
   </div>
 </div>
@@ -98,11 +95,10 @@
 
 <pre style="background:#071018;border:1px solid rgba(255,255,255,0.03);padding:12px;border-radius:8px;color:#9fffcf">root@jatin:~$ status
 
-🟢 Building   AlpheeEats
-🧠 Learning   Computer Vision
-🤖 Exploring  Robotics
-🎧 Listening  Lo-fi Beats
-☕ Coffee     Essential
+🟢 Building    AlpheeEats
+🧠 Learning    Computer Vision
+🤖 Exploring   Robotics
+☕ Coffee      Essential
 </pre>
 
 
@@ -113,27 +109,18 @@
 <table width="100%"><tr>
 <td valign="top" width="420" style="padding-right:12px">
   <div style="background:rgba(255,255,255,0.01); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.03)">
-    <h4 style="margin:0 0 6px 0; color:#e6eef8">AlpheeEats</h4>
-    <div style="color:#9aa7b8; font-size:13px; margin-bottom:8px">Campus food delivery platform — mobile-first, reliable, and local-optimized.</div>
-    <div style="margin-bottom:8px">
-      <img src="https://img.shields.io/badge/Flutter-7c3aed?style=flat-square&logo=Flutter&logoColor=white" height="20" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Node.js-7c3aed?style=flat-square&logo=Node.js&logoColor=white" height="20" alt="Node"/>
-      <img src="https://img.shields.io/badge/MongoDB-7c3aed?style=flat-square&logo=MongoDB&logoColor=white" height="20" alt="Mongo"/>
+      <h4 style="margin:0 0 6px 0; color:#e6eef8">AlpheeEats</h4>
+      <div style="color:#9aa7b8; font-size:13px; margin-bottom:8px">Campus food delivery platform — mobile-first, reliable, and local-optimized.</div>
+      <div style="margin-bottom:8px">![Flutter](https://img.shields.io/badge/Flutter-151515?style=for-the-badge&logo=Flutter&logoColor=white&color=7c3aed) ![Node.js](https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=Node.js&logoColor=white&color=7c3aed) ![MongoDB](https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=MongoDB&logoColor=white&color=7c3aed)</div>
+      <div style="color:#cbd6e3">[Repo](https://github.com/Codersao/alpheeeats) · [Demo](https://alpheeeats.example.com)</div>
+    </div></td>
+    <td valign="top">
+<div style="background:rgba(255,255,255,0.01); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.03)">
+      <h4 style="margin:0 0 6px 0; color:#e6eef8">Codersao</h4>
+      <div style="color:#9aa7b8; font-size:13px; margin-bottom:8px">Robotics and software integrations for education, prototyping, and automation.</div>
+      <div style="margin-bottom:8px">![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=Python&logoColor=white&color=7c3aed) ![ROS](https://img.shields.io/badge/ROS-151515?style=for-the-badge&logo=ROS&logoColor=white&color=7c3aed) ![OpenCV](https://img.shields.io/badge/OpenCV-151515?style=for-the-badge&logo=OpenCV&logoColor=white&color=7c3aed)</div>
+      <div style="color:#cbd6e3">[Repo](https://github.com/Codersao/codersao)</div>
     </div>
-    <div style="color:#cbd6e3">[Repo](https://github.com/Codersao/alpheeeats) · [Demo](https://alpheeeats.example.com)</div>
-  </div>
-</td>
-<td valign="top">
-  <div style="background:rgba(255,255,255,0.01); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.03)">
-    <h4 style="margin:0 0 6px 0; color:#e6eef8">Codersao</h4>
-    <div style="color:#9aa7b8; font-size:13px; margin-bottom:8px">Robotics & software integrations for education and prototyping.</div>
-    <div style="margin-bottom:8px">
-      <img src="https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=Python&logoColor=white" height="20" alt="Python"/>
-      <img src="https://img.shields.io/badge/ROS-7c3aed?style=flat-square&logo=ROS&logoColor=white" height="20" alt="ROS"/>
-      <img src="https://img.shields.io/badge/OpenCV-7c3aed?style=flat-square&logo=OpenCV&logoColor=white" height="20" alt="OpenCV"/>
-    </div>
-    <div style="color:#cbd6e3">[Repo](https://github.com/Codersao/codersao)</div>
-  </div>
 </td>
 </tr></table>
 
@@ -143,18 +130,12 @@
 ### Languages & Tools
 
 <div style="background:rgba(255,255,255,0.01); padding:12px; border-radius:10px; border:1px solid rgba(255,255,255,0.03)">
-
 <strong style="color:#e6eef8">Languages</strong>
-
 <br/>
-![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=Python&logoColor=white&color=7c3aed) ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white&color=7c3aed) ![Dart](https://img.shields.io/badge/Dart-151515?style=for-the-badge&logo=dart&logoColor=white&color=7c3aed)
-
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=Python&logoColor=white&color=7c3aed) ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=JavaScript&logoColor=white&color=7c3aed) ![Dart](https://img.shields.io/badge/Dart-151515?style=for-the-badge&logo=Dart&logoColor=white&color=7c3aed)<br/><br/>
 <strong style="color:#e6eef8">Frameworks / AI / Infra</strong>
-
 <br/>
 ![FastAPI](https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=FastAPI&logoColor=white&color=7c3aed) ![TensorFlow](https://img.shields.io/badge/TensorFlow-151515?style=for-the-badge&logo=TensorFlow&logoColor=white&color=7c3aed) ![Docker](https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=Docker&logoColor=white&color=7c3aed)
-
 </div>
 
 
@@ -163,7 +144,7 @@
 ### GitHub
 
 <div style="background:transparent; margin-top:10px">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codersao&theme=dark&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codersao&show_icons=true&theme=dark&hide_border=true)
 </div>
 
 

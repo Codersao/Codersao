@@ -1,0 +1,58 @@
+{
+  "name": "Jatin Ghoyal",
+  "role": "AI Engineer · Software Developer · Founder @ Codersao",
+  "description": "I build AI-powered products, robotics solutions, and scalable software systems. My work spans applied machine learning, robotics integrations, and developer tooling for real-world production use.",
+  "links": [
+    { "label": "Portfolio", "url": "https://codersao.in", "logo": "book", "color": "7c3aed" },
+    { "label": "Website", "url": "https://codersao.in", "logo": "globe", "color": "7c3aed" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/jatinghoyal/", "logo": "linkedin", "color": "0a66c2" },
+    { "label": "GitHub", "url": "https://github.com/Codersao", "logo": "github", "color": "181717" },
+    { "label": "Resume", "url": "https://codersao.in/resume.pdf", "logo": "file-text", "color": "6f42c1" },
+    { "label": "Email", "url": "mailto:jatinghoyal.in@gmail.com", "logo": "mail", "color": "00ff7f" }
+  ],
+  "stats": [
+    { "value": "150+", "label": "Repositories", "color": "9fffcf" },
+    { "value": "800+", "label": "Stars", "color": "7c3aed" },
+    { "value": "300+", "label": "Contributions", "color": "ffd166" },
+    { "value": "45", "label": "Day Streak", "color": "ff7b7b" }
+  ],
+  "current": [
+    { "emoji": "🟢", "label": "Building", "value": "AlpheeEats" },
+    { "emoji": "🧠", "label": "Learning", "value": "Computer Vision" },
+    { "emoji": "🤖", "label": "Exploring", "value": "Robotics" },
+    { "emoji": "☕", "label": "Coffee", "value": "Essential" }
+  ],
+  "projects": [
+    {
+      "title": "AlpheeEats",
+      "description": "Campus food delivery platform — mobile-first, reliable, and local-optimized.",
+      "tech": ["Flutter", "Node.js", "MongoDB"],
+      "repo": "https://github.com/Codersao/alpheeeats",
+      "demo": "https://alpheeeats.example.com"
+    },
+    {
+      "title": "Codersao",
+      "description": "Robotics and software integrations for education, prototyping, and automation.",
+      "tech": ["Python", "ROS", "OpenCV"],
+      "repo": "https://github.com/Codersao/codersao"
+    }
+  ],
+  "skills": [
+    { "category": "Languages", "items": ["Python", "JavaScript", "Dart"] },
+    { "category": "Frameworks / AI / Infra", "items": ["FastAPI", "TensorFlow", "Docker"] }
+  ],
+  "social": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/jatinghoyal/" },
+    { "label": "GitHub", "url": "https://github.com/Codersao" },
+    { "label": "Email", "url": "mailto:jatinghoyal.in@gmail.com" },
+    { "label": "Website", "url": "https://codersao.in" }
+  ],
+  "assets": {
+    "banner": "assets/banner.gif",
+    "profile": "assets/profile.svg"
+  },
+  "github": {
+    "username": "Codersao",
+    "theme": "dark"
+  }
+}
