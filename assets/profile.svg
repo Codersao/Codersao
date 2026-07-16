@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1"><stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#0b1220"/></linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="16" fill="url(#g1)" />
+  <g transform="translate(32,28)">
+    <rect width="256" height="256" rx="12" fill="#071018" stroke="rgba(255,255,255,0.04)"/>
+    <text x="128" y="140" fill="#9aa7b8" font-family="JetBrains Mono, monospace" font-size="18" text-anchor="middle">JG</text>
+  </g>
+</svg>
