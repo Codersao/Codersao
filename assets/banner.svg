@@ -9,12 +9,12 @@
       <stop offset="100%" stop-color="#5b21b6"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="360" rx="16" fill="url(#bg)" />
+  <rect width="1200" height="360" rx="20" fill="url(#bg)" />
   <g transform="translate(56,48)">
-    <rect width="560" height="256" rx="14" fill="rgba(255,255,255,0.01)" stroke="rgba(255,255,255,0.03)"/>
-    <text x="28" y="44" font-family="JetBrains Mono, monospace" font-size="16" fill="#9fffcf">root@jatin:~$ whoami</text>
-    <text x="28" y="96" font-family="Inter, system-ui" font-size="38" font-weight="700" fill="#e6eef8">Hi, I'm Jatin Ghoyal</text>
-    <text x="28" y="136" font-family="Inter, system-ui" font-size="18" fill="#cbd6e3">AI Engineer · Software Developer · Founder @ Codersao</text>
+    <rect width="560" height="256" rx="14" fill="rgba(255,255,255,0.012)" stroke="rgba(255,255,255,0.03)"/>
+    <text x="28" y="44" font-family="JetBrains Mono, monospace" font-size="14" fill="#9fffcf">root@jatin:~$ whoami</text>
+    <text x="28" y="96" font-family="Inter, system-ui" font-size="40" font-weight="700" fill="#e6eef8">Hi, I'm Jatin Ghoyal</text>
+    <text x="28" y="140" font-family="Inter, system-ui" font-size="18" fill="#cbd6e3">AI Engineer · Software Developer · Founder @ Codersao</text>
     <g transform="translate(28,168)">
       <rect width="220" height="48" rx="10" fill="url(#accent)" />
       <text x="110" y="32" font-family="Inter, system-ui" font-size="14" fill="#fff" text-anchor="middle">View Portfolio</text>
@@ -22,7 +22,7 @@
   </g>
   <g transform="translate(760,28)">
     <rect x="0" y="0" width="360" height="304" rx="14" fill="rgba(255,255,255,0.01)" stroke="rgba(255,255,255,0.02)" />
-    <circle cx="180" cy="152" r="88" fill="#0b0f13" stroke="#7c3aed" stroke-opacity="0.06" stroke-width="2"/>
-    <text x="180" y="168" font-family="Inter, system-ui" font-size="18" fill="#7c3aed" text-anchor="middle">Profile</text>
+    <circle cx="180" cy="152" r="88" fill="#0b0f13" stroke="#7c3aed" stroke-opacity="0.08" stroke-width="2"/>
+    <text x="180" y="172" font-family="Inter, system-ui" font-size="16" fill="#7c3aed" text-anchor="middle">Profile</text>
   </g>
 </svg>

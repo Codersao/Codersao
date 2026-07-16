@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
-  <rect rx="8" width="120" height="40" fill="#0b0f13" />
-  <text x="16" y="26" font-family="Inter, Arial, sans-serif" font-size="14" fill="#7c3aed">Codersao</text>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48">
+  <rect rx="10" width="160" height="48" fill="#071018" />
+  <text x="20" y="32" font-family="Inter, system-ui" font-size="18" fill="#7c3aed">Codersao</text>
 </svg>
